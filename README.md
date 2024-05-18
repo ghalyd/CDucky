@@ -29,7 +29,7 @@ int main(){
     Sleep(500);
     ReturnKey();
     Sleep(500);
-    PressKeys("echo 'Hello World From HopeDucky!'");
+    PressKeys("echo 'Hello World From CDucky!'");
     Sleep(500);
     ReturnKey();
     
