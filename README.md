@@ -1,11 +1,11 @@
-# HopeDucky
-Rubber Ducky As C++ Programme
+# CDucky
+simulate Rubber Ducky concept in c++
 
 ## Install
 
 ````
 
-git clone https://github.com/ghalypr/HopeDucky.git
+git clone https://github.com/ghalyd/CDucky.git
 
 ````
 
@@ -16,7 +16,7 @@ git clone https://github.com/ghalypr/HopeDucky.git
 
 ````C++
 
-#include "include/HopeDucky.h"
+#include "include/CDucky.h"
 
 using namespace std;
 
